@@ -1,0 +1,1 @@
+# Native-scoring-in-SQL-Server-2017-using-R
